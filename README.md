@@ -47,6 +47,7 @@ If it does not start, install FUSE 2 (`libfuse2` or `libfuse2t64` on Ubuntu 24.0
 - Scans a whole subnet in seconds and shows results live
 - Detects device type and OS: PCs, servers, routers, switches, printers, cameras, NAS, phones, TVs
 - Open ports and services, with one-click Web, RDP, SSH and shared folder access
+- Finds remote access and opens it in one click: Winbox for MikroTik (also found via MNDP), AnyDesk, TeamViewer, RustDesk, Radmin, VNC (Windows)
 - Highlights new, missing and changed devices since the previous scan
 - Network map with switch ports (SNMP, LLDP/CDP)
 - Ping monitor with live graphs: latency, jitter and packet loss for several hosts (Windows)
