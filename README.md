@@ -9,7 +9,7 @@ what each one is: name, IP and MAC address, vendor, device type, operating syste
 
 | System | File | |
 |---|---|---|
-| **Windows 10 / 11** (64-bit) | [NetScanner-Setup.msi](https://github.com/armsoftdeveloper/netscanner/raw/main/NetScanner-Setup.msi) | about 50 MB |
+| **Windows 10 / 11** (64-bit) | [NetScanner-Setup.msi](https://github.com/armsoftdeveloper/netscanner/raw/main/NetScanner-Setup.msi) | about 49 MB |
 | **Ubuntu, Debian, Linux Mint** | [NetScanner-Linux.deb](https://github.com/armsoftdeveloper/netscanner/raw/main/NetScanner-Linux.deb) | about 34 MB |
 | **Any Linux** (Fedora, Arch, openSUSE…) | [NetScanner-Linux.AppImage](https://github.com/armsoftdeveloper/netscanner/raw/main/NetScanner-Linux.AppImage) | about 40 MB |
 
@@ -49,7 +49,9 @@ If it does not start, install FUSE 2 (`libfuse2` or `libfuse2t64` on Ubuntu 24.0
 - Open ports and services, with one-click Web, RDP, SSH and shared folder access
 - Highlights new, missing and changed devices since the previous scan
 - Network map with switch ports (SNMP, LLDP/CDP)
-- Ping, traceroute, Wake-on-LAN
+- Ping monitor with live graphs: latency, jitter and packet loss for several hosts (Windows)
+- Built-in network tools: traceroute, DNS lookup, whois, SSL certificate check, subnet calculator, MAC lookup (Windows)
+- Wake-on-LAN
 - Export to Excel (CSV), HTML report or JSON
 - 30 interface languages, light and dark themes
 - Command-line version `netscan` included
